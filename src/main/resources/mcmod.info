@@ -1,0 +1,16 @@
+[
+{
+  "modid": "postgresql_lib",
+  "name": "PostgreSQL Lib",
+  "description": "A library for connecting to PostgreSQL databases",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://discord.gg/MdFpAjPqpX",
+  "updateUrl": "",
+  "authorList": ["DecentStudio", "bybyzyanka", "Assolb"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
